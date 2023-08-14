@@ -1,0 +1,16 @@
+{
+  "name": "d3-component",
+  "version": "1.0.0",
+  "description": "D3组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3-component",
+    "d3"
+  ],
+  "author": "zhengjialux",
+  "license": "ISC",
+  "homepage": "https://github.com/zhengjialux/d3-component"
+}
