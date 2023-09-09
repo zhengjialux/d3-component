@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import * as d3 from 'd3'
+import { axis_x } from "@/utils";
 
 // 基础柱状图
 export const Bar = () => {
@@ -28,6 +29,7 @@ export const Bar = () => {
       .attr('height', height)
 
     // Add the x-axis.
+    axis_x(svg, x)
     svg.append('g')
       .attr('transform', `translate(0,${height - marginBottom})`)
       .call(d3.axisBottom(x))
