@@ -1,5 +1,5 @@
 {
-  "name": "d3-component",
+  "name": "@zhengjialux/d3-component",
   "version": "1.0.0",
   "description": "D3组件",
   "main": "index.js",
