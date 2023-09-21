@@ -28,7 +28,7 @@ function entering() {
   return !this.__axis;
 }
 
-function axis(orient, scale, mark_display, guide_display) {
+function axis(orient, scale, mark_display) {
   var tickArguments = [],
     tickValues = null,
     tickFormat = null,
