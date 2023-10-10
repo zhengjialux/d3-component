@@ -1,5 +1,5 @@
 # D3-component
-沉淀日常使用的 D3 组件（开发中）
+沉淀自己的 D3 组件（开发中）
 
 设计技术：[D3](https://d3js.org/community)、[SVG](https://developer.mozilla.org/zh-CN/docs/Web/SVG)、[Canvas](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
 
